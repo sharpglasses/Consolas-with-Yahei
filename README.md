@@ -14,9 +14,9 @@ This font is called "Consolas"(Keep all original characters of Consolas and Comp
 Screen Shots:
 ---
 
-![image](https://github.com/edward-p/Consolas-with-Yahei/raw/master/Screenshots/js.png "Javascript")
+![image](Screenshots/js.png "Javascript")
 
-![image](https://github.com/edward-p/Consolas-with-Yahei/raw/master/Screenshots/md.png "Markdown")
+![image](Screenshots/md.png "Markdown")
 
 Additonal Tips:
 ---
